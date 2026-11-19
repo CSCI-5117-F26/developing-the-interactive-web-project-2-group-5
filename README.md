@@ -10,11 +10,11 @@ CSCI 5117, Fall 2026, [assignment description](https://canvas.umn.edu/courses/57
 
 ### Students
 
-Aparmita Bajracharya, bajra020@umn.edu
-Diana Nguyen, nguy5285@umn.edu
-Grace Tang, tang0792@umn.edu
-Lindsey Oh, oh000155@umn.edu
-Sarah Peng, peng0471@umn.edu
+* Aparmita Bajracharya, bajra020@umn.edu
+* Diana Nguyen, nguy5285@umn.edu
+* Grace Tang, tang0792@umn.edu
+* Lindsey Oh, oh000155@umn.edu
+* Sarah Peng, peng0471@umn.edu
 
 
 ## Key Features
