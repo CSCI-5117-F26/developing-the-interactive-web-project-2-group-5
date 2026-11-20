@@ -52,8 +52,8 @@ Since it was really hard to seperate it into seperate screenshots, page descript
 - Settings - Involves account 
 - Search populated - Populates with related search items
 - Media upload - Likely will allow links, images, pdfs, docs, videos, and audio 
-- Create folder 
-- Add relationship 
+- Create folder - Allows user to create a folder out of the following types: World, Story, Character, Item, Location, or custom 
+- Add relationship - Allows user to connect folders together with an associated description
 - Wiki View - Contains folder preview(image + description) and all contents within that folder(may include character folders, item folders, location folders, media folders, text contents, etc.)
 - Text content/rich text editor - Primarily for text content--text that is added directly to wiki view--not to be confused with doc/pdfs
 
